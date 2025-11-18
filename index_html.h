@@ -441,7 +441,7 @@ const char index_html_apmode[] PROGMEM = R"rawliteral(
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>Cài đặt WiFi Banlinhkien</title>
+    <title>Cài đặt WiFi</title>
     <style>
         * {
             box-sizing: border-box;
